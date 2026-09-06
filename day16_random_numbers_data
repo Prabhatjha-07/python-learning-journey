@@ -1,0 +1,30 @@
+import random
+
+# value = random.random()
+# print(value)
+
+# value = random.uniform(1,20)
+# print(value)
+
+# value = random.randint(1,20)
+# print(value)
+
+# value = random.randrange(1,20,2)
+# print(value)
+
+# greetings = ["Hello", "Hi", "Hey", "Howdy", "Hola"]
+# value = random.choice(greetings)
+# print(value + " prabhat")
+
+# colours = ["Red", "Blue", "Green", "Yellow", "Black"]
+# value = random.choices(colours, k=3)
+# value = random.choices(colours, weights=[18, 5, 3, 10, 1], k=3)
+# print(value)
+
+deck = list(range(1, 52))
+random.shuffle(deck)
+hand = random.sample(deck, k=5)
+print(hand)
+# print(deck)
+
+
