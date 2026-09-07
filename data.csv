@@ -1,0 +1,16 @@
+id,name,age,course,marks,city
+101,Rahul Sharma,21,Python,85,Delhi
+102,Priya Singh,22,Java,92,Mumbai
+103,Aman Kumar,20,JavaScript,78,Jaipur
+104,Neha Verma,21,Python,95,Dehradun
+105,Arjun Mehta,23,C++,88,Chandigarh
+106,Anjali Gupta,20,Python,91,Lucknow
+107,Rohan Joshi,22,Java,74,Rishikesh
+108,Pooja Yadav,21,JavaScript,89,Noida
+109,Vikas Sharma,24,C++,67,Delhi
+110,Simran Kaur,22,Python,96,Amritsar
+111,Karan Singh,23,Java,81,Haridwar
+112,Muskan Jain,20,JavaScript,87,Agra
+113,Aditya Rawat,21,Python,93,Dehradun
+114,Sakshi Patel,22,C++,76,Ahmedabad
+115,Varun Kapoor,24,Java,84,Gurugram
